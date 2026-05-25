@@ -26,11 +26,11 @@ BluePrint is a **multi-layer attendance tracking system** designed to replace in
 
 It combines:
 
-- 📡 **Hardware scanners** (ESP32 + NFC + fingerprint)
-- 📱 **Mobile app** (iOS/Android)
-- 🌐 **Web dashboard + backend API**
+- **Hardware scanners** (ESP32 + NFC + fingerprint)
+- **Mobile app** (iOS/Android)
+- **Web dashboard + backend API**
 
-### 🎯 Goal
+### Goal
 
 - Fast  
 - Secure  
@@ -39,37 +39,37 @@ It combines:
 
 ---
 
-# 🧩 System Breakdown
+# System Breakdown
 
-### 🔹 Hardware Scanner
+### Hardware Scanner
 - ESP32 microcontroller
 - R503 fingerprint sensor
 - PN532 NFC module
 - Local storage + offline capability
 
-### 🔹 Mobile Application
+### Mobile Application
 - Cross-platform (Flutter)
 - Secure login (JWT + device UUID)
 - NFC-based attendance scanning
 
-### 🔹 Web Application
+### Web Application
 - Real-time attendance logs
 - Role-based access (Teacher/Admin)
 - Analytics + system monitoring
 
 ---
 
-# 🔐 Key Features
+# Key Features
 
-- 🔒 Secure authentication (JWT + hashed passwords)
-- ⚡ Real-time updates via WebSockets
-- 📊 Automated attendance classification (On-time / Late)
-- 🌐 Offline logging with sync support
-- 👨‍🏫 Role-based permissions
+- Secure authentication (JWT + hashed passwords)
+- Real-time updates via WebSockets
+- Automated attendance classification (On-time / Late)
+- Offline logging with sync support
+- Role-based permissions
 
 ---
 
-# 🧠 How It Works
+# How It Works
 
 ### Student
 1. Scan fingerprint **or**
@@ -87,7 +87,7 @@ It combines:
 
 ---
 
-# 📬 Contact Us
+# Contact Us
 ___
 
 <p align="center">
