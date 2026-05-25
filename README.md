@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-🔁 The Next Generation of Student Accountability
+The Next Generation of Student Accountability
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ A secure, automated attendance system with real-time data sync and a full web da
 
 ---
 
-# 📌 Overview
+# Overview
 
 BluePrint is a **multi-layer attendance tracking system** designed to replace inefficient manual attendance methods.
 
